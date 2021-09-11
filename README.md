@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Surya99941
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning OpenGl and computer grapfics
+- 🌱 I’m currently learning OpenGl and computer graphics
 - 📫 How to reach me suryaprakash99941@gmail.com
 
 <!---
